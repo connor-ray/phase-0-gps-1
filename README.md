@@ -11,7 +11,3 @@
 *git push: Pushes the changed repo up to Git Hub
 *git branch: Tells you what branch you are currently in
 *git checkout: Allows you to switch between branches
-<<<<<<< HEAD
-look at this error
-=======
->>>>>>> c16f41ebd7d44b55104de6384c7d0bc72a73afd3
