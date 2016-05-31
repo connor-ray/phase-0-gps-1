@@ -11,4 +11,3 @@ Everyone loves [Google](https://www.google.com/?gws_rd=ssl)
 
 *Unfortunately I had no pair so here is a picture of me working alone.
 ![Screen Shot](Screen Shot GPS.png)
-I making a different error
